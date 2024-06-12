@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size:18pt;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.bunitinho{
+    background: rgb(213,0,64);
+    color: #fff;
+    text-align: center;
+}
